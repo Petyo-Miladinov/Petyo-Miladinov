@@ -2,7 +2,7 @@
 
 #### A passionate developer from Bulgaria
 
-- 🔭 I’m currently working on [Business Card Generator](https://github.com/Code-Runners-2023/Business-card-generator-frontend)
+- 🔭 I’m currently working on [ConsultationScheduler](https://github.com/Petyo-Miladinov/ConsultationScheduler)
 
 - 🌱 I’m currently learning **React TypeScript**
 
